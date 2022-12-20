@@ -20,4 +20,9 @@ More complex rules can be added, such as obstacle avoidance and goal seeking. Fo
 
 Sources: Boids. (n.d.). Wikipedia. Retrieved November 25, 2022, from https://en.wikipedia.org/wiki/Boids <br />
 
+## Boids Script
+
+This script updates the velocity and position of each boid based on the settings that define the characteristics of seperation, alignment, and cohesion plus obstacle avoidance. This script also creates a series of raycast in a unique pattern that allows the boids to navigate 3D spaces smoothly and avoid obastacles. When a raycast detects a clear path, the boid changes direction toward that direction. <br />
+
+Sources: Building Boids in Unity 3D. (2020, January 23). YouTube. Retrieved November 25, 2022, from https://www.youtube.com/watch?v=_d8M3Y-hiUs <br />
 
